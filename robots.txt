@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abu-oday.lovable.app/sitemap.xml
